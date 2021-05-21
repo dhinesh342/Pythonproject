@@ -1,4 +1,4 @@
-# Exeterproject
+# Project
 TranslateWordsChallenge
 Programming Language: Python3
 
